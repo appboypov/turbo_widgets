@@ -1,0 +1,20 @@
+name: turbo_widgets
+description: Common reusable UI widgets, extensions, and animation utilities for Flutter.
+version: 1.0.0
+homepage: https://github.com/appboypov/turbo_widgets
+repository: https://github.com/appboypov/turbo_widgets
+
+environment:
+  sdk: ^3.9.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.5.0
+  gap: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
