@@ -1,7 +1,6 @@
 name: turbo_widgets
 description: Common reusable UI widgets, extensions, and animation utilities for Flutter.
 version: 1.0.0
-resolution: workspace
 homepage: https://github.com/appboypov/turbo_widgets
 repository: https://github.com/appboypov/turbo_widgets
 
